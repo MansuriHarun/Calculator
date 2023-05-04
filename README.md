@@ -14,11 +14,9 @@ To use the calculator, simply click on the buttons to enter numbers and perform 
 # Installation
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/your-username/calculator.git`
+   `git clone https://github.com/your-username/calculator.git`
 
-2. Navigate to the project directory:
-
-`cd calculator`
+2. Navigate to the project directory: `cd calculator`
 
 3. Open the `index.html` file in your web browser to start using the calculator.
 
