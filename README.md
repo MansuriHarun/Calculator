@@ -12,9 +12,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It features a
 To use the calculator, simply click on the buttons to enter numbers and perform calculations. The display will show the current operation and the result of the calculation. Use the clear button to reset the calculator and start a new calculation.
 
 # Installation
-1. Clone the repository to your local machine:
-
-   `git clone https://github.com/your-username/calculator.git`
+1. Clone the repository to your local machine: `git clone https://github.com/your-username/calculator.git`
 
 2. Navigate to the project directory: `cd calculator`
 
